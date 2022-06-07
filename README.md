@@ -1,5 +1,5 @@
 
-### Hey there!! ::wave
+### Hey there!! :man_technologist:
 <!--
 **jeanmoura/jeanmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 </div>
   
   <img src="https://komarev.com/ghpvc/?username=jeanmoura&style=flat-square&color=blue" alt=""/>
- <div>
+ 
+  
+
+### :hammer_and_wrench: Languages and Tools :
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -40,10 +44,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
 </div>
 
 ---
