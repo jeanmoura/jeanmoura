@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 </div>
 
 ---
-###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from Belo Horizonte, Minas Gerais, Brazil.
+###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer student from Belo Horizonte, Minas Gerais, Brazil.
