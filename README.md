@@ -47,4 +47,10 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
 ###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer student from Belo Horizonte, Minas Gerais, Brazil.
