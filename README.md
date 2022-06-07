@@ -29,10 +29,7 @@ Here are some ideas to get you started:
   
   <img src="https://komarev.com/ghpvc/?username=jeanmoura&style=flat-square&color=blue" alt=""/>
   
-  <h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -40,4 +37,4 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### ::man_technologist: About me:
+###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full Stack Developer from Belo Horizonte, Minas Gerais, Brazil.
