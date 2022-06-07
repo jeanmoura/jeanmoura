@@ -48,13 +48,15 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeanmoura&theme=dark)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jeanmoura&theme=highcontrast&show_icons=true&count_private=true)    
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeanmoura&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoura&layout=compact&theme=vision-friendly-dark)](https://github.com/jeanmoura/github-readme-stats)
+
+
+    
 
 ---
 ###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer student from Belo Horizonte, Minas Gerais, Brazil.
