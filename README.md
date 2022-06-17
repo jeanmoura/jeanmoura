@@ -64,4 +64,4 @@ Here are some ideas to get you started:
    
 
 ---
-###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineering lifelong learner.
+###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a lifelong programming learner.
