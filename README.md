@@ -47,16 +47,21 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
-    
-![Github stats](https://github-readme-stats.vercel.app/api?username=jeanmoura&theme=highcontrast&show_icons=true&count_private=true)    
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeanmoura&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoura&layout=compact&theme=vision-friendly-dark)](https://github.com/jeanmoura/github-readme-stats)
 
 
-    
+
+ <div>
+  <a href="https://github.com/jeanmoura">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmoura&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoura&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+ <br>   
+   
+![snake gif](https://github.com/jeanmoura/jeanmoura/blob/output/github-contribution-grid-snake.svg)
+   
+   
 
 ---
 ###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineering lifelong learner.
