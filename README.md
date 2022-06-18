@@ -59,5 +59,6 @@ Here are some ideas to get you started:
    
    
 
----
+<!-----
 ###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+-->
