@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-
-
  <div>
   <a href="https://github.com/jeanmoura">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmoura&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -63,4 +60,4 @@ Here are some ideas to get you started:
    
 
 ---
-###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+###  About me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
